@@ -4,7 +4,7 @@ This repository is intended to be used for Dutch Social Media Analysis.
 
 # Problem Statement
 
-Dutch Social media analysis has been done for the application of Trust Lab Intern Position. This dataset has been taken from Kaggle and some assumptions have been made for this analysis. Four cities from Netherlands have been chosen from the dataset for finding the mean sentiment score across 4 cities and also for time series analysis as well. 
+Dutch Social media analysis dataset has been taken from Kaggle and some assumptions have been made for this analysis. Four cities from Netherlands have been chosen from the dataset for finding the mean sentiment score across 4 cities and also for time series analysis as well. 
 
 ## Executive Summary
 The workflow of the project is as follows:
